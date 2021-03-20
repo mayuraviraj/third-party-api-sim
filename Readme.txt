@@ -6,3 +6,5 @@ Also issuetracker/feed POST API add to feed the data simulator. Once feeded geti
 simualtor.
 
 There is sample data added so that invoker can get data even without feeding data to simulator.
+
+Please use attached postman script for testing.
